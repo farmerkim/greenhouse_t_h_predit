@@ -14,7 +14,7 @@ from future_prediction import GreenhouseFuturePredictor
 
 # --- [Gemini 및 Telegram 설정] ---
 # 🔑 Gemini 설정
-GEMINI_API_KEY = "AIzaSyD-42F24dEp73ZSU_2OdwHEkuaiLlYU4oI" # 사용자 키 유지
+GEMINI_API_KEY = "" # 사용자 키 유지
 
 # 📢 Telegram 설정
 TELEGRAM_BOT_TOKEN = "8544768473:AAGlHKkR_r7-IjxoUqBrxcJd3aD6vRPSmvQ"
@@ -237,4 +237,5 @@ def main():
             st.dataframe(df)
 
 if __name__ == "__main__":
+
     main()
