@@ -337,7 +337,7 @@ def main():
     START_DATE = '2024-12-01'  # 시작일
     END_DATE = '2025-12-01'    # 종료일
     STN_IDS = '146'            # 전주 기상대 (146)
-    SERVICE_KEY = 'c41d42c7c683c85b3e54a9bc00ec9d9e71f052d73a0722a759c14d40836f05cb'
+    SERVICE_KEY = ''
     
     OUTPUT_DIR = 'input'       # 저장 폴더
     OUTPUT_FILE = 'asos_weather.csv'  # 저장 파일명
@@ -430,4 +430,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
