@@ -8,4 +8,4 @@
 ### 사용기술 : PyTorch 기반 LSTM
 
 <img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/d9ce78ca-a11f-492c-aa28-8208163b62bf" />
-<img width="1170" height="2391" alt="image" src="https://github.com/user-attachments/assets/63d86a72-404f-400b-a5e5-76ca46c20f97" />
+<img width="1170" height="558" alt="image" src="https://github.com/user-attachments/assets/67da3641-487b-4cfa-ab5a-2a4e335325ec" />
