@@ -139,7 +139,7 @@ class WeatherForecastCollector:
         return self.parse_forecast_to_dataframe(data)
 
 if __name__ == "__main__":
-    SERVICE_KEY = "c41d42c7c683c85b3e54a9bc00ec9d9e71f052d73a0722a759c14d40836f05cb"
+    SERVICE_KEY = ""
     collector = WeatherForecastCollector(SERVICE_KEY)
     
     print("📍 기상청 예보 다운로드 시작...")
