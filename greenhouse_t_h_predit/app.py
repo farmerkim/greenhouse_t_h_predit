@@ -17,8 +17,8 @@ from future_prediction import GreenhouseFuturePredictor
 GEMINI_API_KEY = "" # 사용자 키 유지
 
 # 📢 Telegram 설정
-TELEGRAM_BOT_TOKEN = "8544768473:AAGlHKkR_r7-IjxoUqBrxcJd3aD6vRPSmvQ"
-TELEGRAM_CHAT_ID = "7078646539"
+TELEGRAM_BOT_TOKEN = ""
+TELEGRAM_CHAT_ID = ""
 
 # 온실 환경 및 임계치 설정 (수정됨)
 CROP_NAME = "방울토마토"
